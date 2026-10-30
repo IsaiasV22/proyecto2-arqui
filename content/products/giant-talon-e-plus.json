@@ -1,0 +1,15 @@
+{
+  "slug": "giant-talon-e-plus",
+  "name": "Giant Talon E+",
+  "description": "Bicicleta eléctrica de montaña con horquilla de 100 mm, motor SyncDrive Sport 2 de 75 Nm y batería removible de 430 Wh. Sirve para senderos, caminos de tierra o dar velocidad al trayecto diario.",
+  "category": "electrica",
+  "image": "https://images2.giant-bicycles.com/b_white%2Cc_pad%2Ch_600%2Cq_80%2Cw_800/swqogbgs0mm6zjmu0pbw/MY26TalonE_ColorA.jpg",
+  "price": 2950.0,
+  "brand": "Giant",
+  "model": "Talon E+",
+  "weightKg": 21.7,
+  "colors": [
+    "Asphalt Green"
+  ],
+  "sourceUrl": "https://www.giant-bicycles.com/us/talon-eplus"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "montana",
+    "name": "Montaña",
+    "description": "Bicicletas con suspensión y llantas anchas para senderos de tierra, raíces y piedras. Incluye rígidas (hardtail) y de doble suspensión.",
+    "image": "https://dma.canyon.com/image/upload/w_945,h_495,c_fit/f_auto/q_auto/v1785846236/2027_FULL_spectral_6_4378_M178_P04_P5_29_jra49s"
+  },
+  {
+    "slug": "ruta",
+    "name": "Ruta",
+    "description": "Bicicletas ligeras con manubrio de ruta para rodar rápido sobre asfalto, desde modelos de iniciación en aluminio hasta máquinas de carbono para competir.",
+    "image": "https://dma.canyon.com/image/upload/w_945,h_495,c_fit/f_auto/q_auto/v1784624289/2027_FULL_aeroad_cf-slx-7-axs_4530_R107_P01_snmawi"
+  },
+  {
+    "slug": "gravel",
+    "name": "Gravel",
+    "description": "Bicicletas de manubrio de ruta con llantas anchas, pensadas para caminos de lastre, tierra y viajes de bikepacking.",
+    "image": "https://images2.giant-bicycles.com/b_white%2Cc_pad%2Ch_600%2Cq_80%2Cw_800/w20wzevii4wgcypt2wqt/MY26Revolt2_ColorAOceanStorm.jpg"
+  },
+  {
+    "slug": "urbana",
+    "name": "Urbana",
+    "description": "Bicicletas híbridas y de ciudad con posición cómoda y manubrio plano, ideales para ir al trabajo, hacer ejercicio o pasear.",
+    "image": "https://resources.specialized.com/image/92325-80_SIRRUS-X-20-KM-DUNEWHT-DOVGRY_HERO-SQUARE?q=75&w=1400&h=2880&fit=max&fm=webp"
+  },
+  {
+    "slug": "electrica",
+    "name": "Eléctrica",
+    "description": "Bicicletas con motor de pedaleo asistido para recorrer más distancia con menos esfuerzo, en ciudad, ruta o montaña.",
+    "image": "https://resources.specialized.com/image/95022-31_VADO-50-CSTBLK-SILREFL_HERO-SQUARE?q=75&w=1400&h=2880&fit=max&fm=webp"
+  },
+  {
+    "slug": "infantil",
+    "name": "Infantil",
+    "description": "Bicicletas livianas con geometría y componentes pensados para niñas y niños, de 16 a 24 pulgadas.",
+    "image": "https://assets.woom.com/products/100883-0000-1002-side.png"
+  }
+]

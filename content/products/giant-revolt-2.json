@@ -1,0 +1,15 @@
+{
+  "slug": "giant-revolt-2",
+  "name": "Giant Revolt 2",
+  "description": "Gravel de aluminio versátil para asfalto, lastre o tierra. Su horquilla de compuesto suaviza el andar y un flip chip permite ajustar la distancia entre ejes y el espacio para llantas.",
+  "category": "gravel",
+  "image": "https://images2.giant-bicycles.com/b_white%2Cc_pad%2Ch_600%2Cq_80%2Cw_800/w20wzevii4wgcypt2wqt/MY26Revolt2_ColorAOceanStorm.jpg",
+  "price": 1500.0,
+  "brand": "Giant",
+  "model": "Revolt 2",
+  "colors": [
+    "Ocean Storm",
+    "Icicle White"
+  ],
+  "sourceUrl": "https://www.giant-bicycles.com/us/revolt-2"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "giant-escape-3",
+  "name": "Giant Escape 3",
+  "description": "Híbrida urbana de posición cómoda y andar suave para ir al trabajo, hacer ejercicio o simplemente desconectarse. Una opción económica y práctica para el día a día.",
+  "category": "urbana",
+  "image": "https://images2.giant-bicycles.com/b_white%2Cc_pad%2Ch_600%2Cq_80%2Cw_800/jnjd4psisnbukea2efwy/MY24Escape3_ColorAColdIron.jpg",
+  "price": 550.0,
+  "brand": "Giant",
+  "model": "Escape 3",
+  "year": 2024,
+  "colors": [
+    "Cold Iron",
+    "Cobalt"
+  ],
+  "sourceUrl": "https://www.giant-bicycles.com/us/escape-3"
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "guardian-adult-bike",
+  "name": "Guardian Adult Bike",
+  "description": "Bicicleta urbana para adultos pensada para acompañar a los niños en sus paseos. Incorpora el sistema de frenado SureStop, cambio de puño de 7 velocidades y potencia ajustable para encontrar la postura ideal.",
+  "category": "urbana",
+  "image": "https://cdn.shopify.com/s/files/1/1030/6965/files/GBE-275-7-SM-DB-00.jpg?v=1765740767",
+  "price": 399.0,
+  "brand": "Guardian",
+  "model": "Adult Bike",
+  "colors": [
+    "Cold Steel",
+    "Graphite Mint",
+    "Deep Blue",
+    "Cold Lavender",
+    "Clay Peach",
+    "Forest Green",
+    "Silver Ember",
+    "Navy Silver",
+    "Khaki Orange"
+  ],
+  "sourceUrl": "https://www.guardianbikes.com/products/adult-bike"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "giant-talon-1",
+  "name": "Giant Talon 1",
+  "description": "Hardtail de aluminio para quien se inicia en el ciclismo de montaña. Su cuadro rediseñado es más ligero y resistente, y combina horquilla con suspensión, ejes pasantes y transmisión 1x para progresar en los senderos.",
+  "category": "montana",
+  "image": "https://images2.giant-bicycles.com/b_white%2Cc_pad%2Ch_600%2Cq_80%2Cw_800/lvrmdnge44jxa8njpuga/MY27Talon291_ColorADustyBlue.jpg",
+  "price": 1000.0,
+  "brand": "Giant",
+  "model": "Talon 1",
+  "year": 2027,
+  "colors": [
+    "Dusty Blue"
+  ],
+  "sourceUrl": "https://www.giant-bicycles.com/us/talon-1"
+}

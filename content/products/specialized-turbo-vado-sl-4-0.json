@@ -1,0 +1,18 @@
+{
+  "slug": "specialized-turbo-vado-sl-4-0",
+  "name": "Specialized Turbo Vado SL 4.0",
+  "description": "Eléctrica urbana superligera con motor SL 1.1 y batería integrada de 320 Wh, con autonomía de hasta 130 km en modo eco (ampliable con batería extra). Ideal para trayectos diarios o entrenamientos más rápidos.",
+  "category": "electrica",
+  "image": "https://resources.specialized.com/image/93922-51_VADO-SL-40-SMK-BLKREFL_HERO-SQUARE?q=75&w=1400&h=2880&fit=max&fm=webp",
+  "price": 3499.99,
+  "brand": "Specialized",
+  "model": "Turbo Vado SL 4.0",
+  "year": 2023,
+  "weightKg": 15.5,
+  "colors": [
+    "Smoke / Black Reflective",
+    "Birch / Limestone Speckling / Birch Reflective",
+    "Limestone / Black Reflective"
+  ],
+  "sourceUrl": "https://www.specialized.com/us/en/turbo-vado-sl-40/p/216532"
+}

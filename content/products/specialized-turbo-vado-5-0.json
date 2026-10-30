@@ -1,0 +1,18 @@
+{
+  "slug": "specialized-turbo-vado-5-0",
+  "name": "Specialized Turbo Vado 5.0",
+  "description": "Eléctrica urbana de alto desempeño con motor Turbo Full Power 2.2 y batería de 710 Wh, que asiste hasta 28 mph (45 km/h). Silenciosa, confiable y pensada para reemplazar el auto en los trayectos diarios.",
+  "category": "electrica",
+  "image": "https://resources.specialized.com/image/95022-31_VADO-50-CSTBLK-SILREFL_HERO-SQUARE?q=75&w=1400&h=2880&fit=max&fm=webp",
+  "price": 4999.99,
+  "brand": "Specialized",
+  "model": "Turbo Vado 5.0",
+  "year": 2023,
+  "weightKg": 25.3,
+  "colors": [
+    "Cast Black / Silver Reflective",
+    "Red Tint / Silver Reflective",
+    "White Mountains / Black Reflecitve"
+  ],
+  "sourceUrl": "https://www.specialized.com/us/en/turbo-vado-50/p/275164"
+}

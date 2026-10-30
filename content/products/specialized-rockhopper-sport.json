@@ -1,0 +1,19 @@
+{
+  "slug": "specialized-rockhopper-sport",
+  "name": "Specialized Rockhopper Sport",
+  "description": "Rígida de montaña con cuadro de aluminio Premium A1 de tubos conformados que reduce el peso y mejora el despeje. Equipa transmisión Shimano CUES de 9 velocidades y frenos de disco hidráulicos.",
+  "category": "montana",
+  "image": "https://resources.specialized.com/image/91826-63_ROCKHOPPER-SPORT-DUNEWHT-OIS_HERO-SQUARE?q=75&w=1400&h=2880&fit=max&fm=webp",
+  "price": 849.99,
+  "brand": "Specialized",
+  "model": "Rockhopper Sport",
+  "year": 2026,
+  "weightKg": 14.0,
+  "colors": [
+    "Gloss Dune White / Oasis",
+    "Gloss Smoke / Cool Grey",
+    "Gloss Maroon / Deep Orange",
+    "Gloss Pine Green / Desert Rose"
+  ],
+  "sourceUrl": "https://www.specialized.com/us/en/rockhopper-sport/p/4221767"
+}

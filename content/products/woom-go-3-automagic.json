@@ -1,0 +1,20 @@
+{
+  "slug": "woom-go-3-automagic",
+  "name": "woom GO 3 AUTOMAGIC",
+  "description": "Bicicleta infantil de 16\" con cambio automático de dos velocidades, manubrio estilo BMX y diseño de seguridad para niños desde los 4 años. Incluye pata de apoyo.",
+  "category": "infantil",
+  "image": "https://assets.woom.com/products/100884-0000-3010-side.png",
+  "price": 549.0,
+  "brand": "woom",
+  "model": "GO 3 AUTOMAGIC",
+  "weightKg": 6.6,
+  "colors": [
+    "woom red",
+    "vibrant yellow",
+    "hot pink",
+    "metallic turquoise",
+    "metallic blue",
+    "powder pink"
+  ],
+  "sourceUrl": "https://woom.com/en_US/products/go-3-automagic-kids-bike"
+}

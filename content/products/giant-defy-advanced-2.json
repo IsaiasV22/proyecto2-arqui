@@ -1,0 +1,15 @@
+{
+  "slug": "giant-defy-advanced-2",
+  "name": "Giant Defy Advanced 2",
+  "description": "Bicicleta de ruta de resistencia (endurance) con cuadro de compuesto de carbono. Su diseño suaviza los caminos ásperos y reduce la fatiga en salidas largas.",
+  "category": "ruta",
+  "image": "https://images2.giant-bicycles.com/b_white%2Cc_pad%2Ch_600%2Cq_80%2Cw_800/ln09xatfxrvyqelva1lt/MY26DefyAdvanced2_ColorAAbyssBlack.jpg",
+  "price": 3300.0,
+  "brand": "Giant",
+  "model": "Defy Advanced 2",
+  "colors": [
+    "Abyss Black",
+    "Spruce"
+  ],
+  "sourceUrl": "https://www.giant-bicycles.com/us/defy-advanced-2"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "woom-go-3",
+  "name": "woom GO 3",
+  "description": "Bicicleta infantil superligera de 16\" para niños desde los 4 años, con diseño enfocado en la seguridad. Incluye pata de apoyo.",
+  "category": "infantil",
+  "image": "https://assets.woom.com/products/100883-0000-1002-side.png",
+  "price": 499.0,
+  "brand": "woom",
+  "model": "GO 3",
+  "weightKg": 5.9,
+  "colors": [
+    "woom red",
+    "vibrant yellow",
+    "hot pink",
+    "metallic turquoise",
+    "metallic blue",
+    "powder pink"
+  ],
+  "sourceUrl": "https://woom.com/en_US/products/go-3-kids-bike"
+}
